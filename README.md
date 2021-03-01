@@ -8,7 +8,7 @@
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1.3]: https://img.icons8.com/android/24/000000/filled-message.png
 <!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com//
+[1]: https://www.linkedin.com/in/bill-llach-bruges-a7b682175/
 [2]: mailto:bill.llach1801@gmail.com
 
 
