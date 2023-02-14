@@ -5,7 +5,7 @@
 
 - 📝 I regularly write interesting things on [www.linkedin.com/in/billantonyllachbruges-desarrolladorsoftware](www.linkedin.com/in/billantonyllachbruges-desarrolladorsoftware)
 
-- 💬 Ask me about **Vainilla Javascript, Shopify liquid, Angular, and CSS**
+- 💬 Ask me about **Javascript, Shopify liquid, Angular, React, and CSS**
 
 - 📫 How to reach me **bill.llach1801@gmail.com**
 
