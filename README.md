@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bill</h1>
 <h3 align="center">A passionate frontend developer with backend knowledge from Colombia</h3>
 
-- 🔭 I’m currently working on [Show Files and Folders from Dropbox Shopify App](https://github.com/tony-coder-18/Show-files-and-Folders-from-Dropbox---Shopify-App)
+- 🔭 I’m currently working on MyRegistry.com
 
 - 📝 I regularly write interesting things on [www.linkedin.com/in/billantonyllachbruges-desarrolladorsoftware](www.linkedin.com/in/billantonyllachbruges-desarrolladorsoftware)
 
-- 💬 Ask me about **Javascript, Shopify liquid, Angular, React, and CSS**
+- 💬 Ask me about **Javascript, CSS, HTML, Shopify liquid, and React**
 
 - 📫 How to reach me **bill.llach1801@gmail.com**
 
